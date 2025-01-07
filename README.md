@@ -31,3 +31,11 @@ chapter11. 동기와 비동기
 chapter12. 비동기 작업 처리하기 1. 콜백함수
 chapter13. 비동기 작업 처리하기 2. Promise
 chapter14. 비동기 작업 처리하기 3. Async&Await
+
+echo "# dd" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/chxxrin/dd.git
+git push -u origin main
