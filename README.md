@@ -1,14 +1,14 @@
 # Javascript 개인공부
 ## Section01. Javascript 기초
-chapter03. 자바스크립트 실습 환경 설정
-chapter04. 변수와 상수
-chapter05. 자료형
-chapter06. 형 변환
-chapter07. 연산자1
+chapter03. 자바스크립트 실습 환경 설정  
+chapter04. 변수와 상수  
+chapter05. 자료형 
+chapter06. 형 변환 
+chapter07. 연산자1 
 chapter08. 연산자2
 chapter09. 조건문
 chapter10. 반복문
-chapter11. 함수
+chapter11. 함수 
 chapter12. 함수 표현식과 arrow function
 chapter13. 콜백함수
 chapter14. 스코프
