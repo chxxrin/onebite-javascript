@@ -19,7 +19,7 @@
   color: gray;
 }
 
-.TodoItem button {
+.TodoItem.button {
   cursor: pointer;
   color: gray;
   font-size: 14px;
