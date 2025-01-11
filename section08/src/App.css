@@ -1,0 +1,7 @@
+.App {
+  width: 500px;
+  margin: 0 auto;
+  display: flex; /* 자식요소들을 유연하게 만들 수 있도록 함 */
+  flex-direction: column;
+  gap: 10px;
+}
